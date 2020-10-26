@@ -1,0 +1,15 @@
+body{
+  background:#ccc;
+  text-align:center;
+}
+.main {
+  font-family:Arial;
+  color:red;
+  width:500px;
+  display:block;
+  margin:0 auto;
+  position:fixed;
+  bottom: 0;
+}
+ 
+ 
